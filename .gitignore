@@ -1,0 +1,7 @@
+# Android test app
+.gradle/
+/local.properties
+/.idea/
+/.gradle/
+/build/
+/app/build/
